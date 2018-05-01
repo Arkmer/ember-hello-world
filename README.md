@@ -12,6 +12,10 @@ You will need the following things properly installed on your computer.
 * [Ember CLI](https://ember-cli.com/)
 * [Google Chrome](https://google.com/chrome/)
 
+### Quick Tutorial
+
+* https://guides.emberjs.com/v3.1.0/getting-started/quick-start/
+
 ## Installation
 
 * `git clone <repository-url>` this repository
